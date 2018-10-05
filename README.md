@@ -3,11 +3,11 @@
 ## Purpose
 This repo holds Flask practice exercises and notes for @wandesky.
 The exercises are from the book Flask Web Development
-authored by Miguel Grinberg and published by O'Reilly 
-which was shared to my by @unah254 in October 2018 during
+authored by Miguel Grinberg and published by O'Reilly. 
+It was shared to my by @unah254 in October 2018 during
 Andela Workshops 
 ## Topics and Workflow
-The book has 14 topics and the tasks for each topic will
+The book has 18 topics and the tasks for each topic will
 be pushed to its dedicated branch (eg. branch chapter-one).
 At the end of each chapter, I will merge the work done with
 master branch.
