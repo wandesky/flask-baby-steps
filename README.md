@@ -10,11 +10,12 @@ Andela Workshops
 The book has 18 topics and the tasks for each topic will
 be pushed to its dedicated branch (eg. branch chapter-one).
 At the end of each chapter, I will merge the work done with
-master branch.
+master branch. Clicking the chapter links will take you to the 
+pages where my notes for that chapter reside.
 
 The 18 chapters are:
 ### Part One: Introduction to Flask
-* Chapter One: Installation and Setup
+* [Chapter One: Installation and Setup](https://github.com/wandesky/flask-baby-steps/blob/chapter-one/chapter%20notes/ch-1%20notes.md)
 * Chapter Two: Basic Flask application
 * Chapter Three: Templates in Flask applications
 * Chapter Four: Web Forms
