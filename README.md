@@ -16,7 +16,7 @@ pages where my notes for that chapter reside.
 The 18 chapters are:
 ### Part One: Introduction to Flask
 * [Chapter One: Installation and Setup](https://github.com/wandesky/flask-baby-steps/blob/chapter-one/chapter%20notes/ch-1%20notes.md)
-* Chapter Two: Basic Flask application
+* [Chapter Two: Basic Flask application](https://github.com/wandesky/flask-baby-steps/blob/master/chapter%20notes/ch-2%20notes.md)
 * Chapter Three: Templates in Flask applications
 * Chapter Four: Web Forms
 * Chapter Five: Databases
